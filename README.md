@@ -52,4 +52,12 @@ WhatsApp Trigger → If Condition:
 *   Automation Platform supporting visual workflows (as shown in the image).
 
 ## 📷 Screenshot
-![Workflow Screenshot](./path/to/Screenshot.png)
+![Workflow Screenshot](https://github.com/Vanazhagan/Whatsapp_Chat_N8n/blob/main/Screenshot%202025-06-24%20175229.png)
+
+## 📢 Future Enhancements
+*  Add more complex conditional logic.
+*  Integrate additional AI tools.
+*  Support for multi-language responses.
+  
+## 📩 Contact
+*  For questions or support, feel free to raise an issue or contact the repository maintainer.
